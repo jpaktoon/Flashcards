@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.btn {
+  margin: 2px;
+}
+
+.highlight-question {
+  font-weight: bold;
+  color: #007bff; /* Blue */
+}
+
+.highlight-answer {
+  font-weight: bold;
+  color: #28a745; /* Green */
+}
+
+.form-group {
+  margin-bottom: 1em;
+}
+
+.form-control {
+  width: 100%;
+  padding: 0.5em;
+  margin-top: 0.5em;
+}
+
+.form-actions {
+  display: flex;
+  gap: 1em;
+}
